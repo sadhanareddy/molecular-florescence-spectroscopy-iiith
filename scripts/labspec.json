@@ -1,4 +1,6 @@
-        "build_requirements": {
+       {
+         "lab": {
+            "build_requirements": {
             "platform": {
                 "arch": "i386", 
                 "build_steps": {
